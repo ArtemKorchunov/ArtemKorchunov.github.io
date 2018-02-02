@@ -21,16 +21,9 @@
         }
     }
 
-    function delEvent(e, elems = this.cells) {
-        for (let elem of elems){
-            elem[e] = drawSymbol.bind(this);
-        }
-    }
-
     this.isCross = true;
     function toogle() {
-        this.isCross = !isCross;
-        return this.isCross;
+        return this.isCross = !isCross;
     }
 
     function initProps() {
@@ -49,9 +42,8 @@
             this.redo_btn.setAttributeNode(document.createAttribute('disabled'));
         }
         this.undo_btn.removeAttribute('disabled');
-        if (winning()) check();
+        if (winning()) parseWinLabel();
         toogle();
-        console.log(this.arr)
     }
 
     function createElem(target) {
@@ -62,9 +54,9 @@
     }
 
     function redoFields() {
-        if (this.firstUndoEvent) return 
+        if (this.firstUndoEvent) return;
         for (let i = this.actions.length; i < this.redo.length; i++){
-            createElem(this.cells[this.redo[i]])
+            createElem(this.cells[this.redo[i]]);
             toogle();
         }
         this.firstUndoEvent = true;
@@ -96,7 +88,7 @@
         let count= 1;
         while (count <= 3){
             this.cells[i].className += ` win ${txt}`
-            i+=step;
+            i += step;
             count++;
         }
     }
@@ -161,7 +153,7 @@
         changeStateEvent(true, 'onclick');
     }
 
-    function check() {
+    function parseWinLabel() {
         this.won_field.classList.remove('hidden');
         
         this.won_field.firstElementChild.textContent = this.ifDraw?  "It's a draw!": this.isCross ? 'Crosses won!': 'Toes won!';
