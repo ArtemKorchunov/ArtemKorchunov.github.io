@@ -1,0 +1,69 @@
+---
+description: # Bio
+globs: 
+alwaysApply: false
+---
+
+
+Artem Korchunov
+Burakowska 16 ● Warsaw, PL 01-066 
++48796315627 ● artem.korchunof@gmail.com
+
+Languages: Ukrainian, Russian, English - C1
+
+PROFESSIONAL EXPERIENCE
+
+Pillsorted INC (remote)., UK						                                                            2022 - Present
+Product Senior Software Engineer
+Collaborated closely with a team of five dedicated developers.
+Helped on migration of the on premise system to AWS cloud.
+Spearheaded critical, high-impact initiatives to drive business expansion.
+Demonstrated project management skills by effectively managing deadlines and leading a small team through complex epics, while fostering team motivation.
+Cultivated a friendly and constructive team environment, enhancing collaborative efficiency by addressing weaknesses using personal approach for each team member and nurturing strengths on them.
+Immersed myself in the business context of tasks, partnering closely with the founder/product owner to craft robust solutions.
+Assumed full ownership of end-to-end project delivery, encompassing both technical and business aspects.
+Took full ownership on initiative to migrate to GRPC along with building a fully automated ci process for building and releasing new versions across languages.
+Played a key role in developing event-driven services.
+Tech skills: Terraform, AWS, .NET, NodeJS, Typescript, RxJS, GithubCI, GRPC, React, Cypress, Cucumber, Docker, OpenTelemetry, New Relic, GithubActions, Fastify, DynamoDB
+
+AXORA INC (remote)., UK	       					                                                                                2021 - 2022
+Product Software Engineer
+Collaborated within a cohesive team of five highly skilled developers.
+Played a pivotal role in the onboarding and mentoring of new team members.
+Assumed responsibility for multiple business domains, notably overseeing the social platform and analytics. I closely collaborated with the Product Owner to develop various metric dashboards and implemented data collection from our marketplace platform using GA4 and GTAG.
+Elevated the frontend application's performance, resulting in an 1.5x improvement in Google performance metrics, achieving an score of 85.
+Tech skills: Terraform, AWS, NodeJS, Typescript, CircleCI, React, Gatsby, RxJS, Docker, GithubActions, Monorepo, DynamoDB, WebComponents, PReact, Algolia, CMS Contentful, Express.
+
+INTELLIAS (Outstaff software company)., Kyiv, Ukraine				                                                2019 - 2021
+Smava INC (German based) Javascript Engineer (2019-2021)
+Working on a core team developing an internal ERP system as well as taking part in developing external onboarding flows for loans.
+Leading product initiatives to improve the customer experience and improve efficiency of internal customers by addressing the ui/ui improvements..
+Tech skills: NodeJS, Typescript, CircleCI, React, Redux, Selenium, Nightwatch, RxJS, Firebase, Express, KoaJS, PostgreSQL, Docker, Heroku
+
+Before          			                                                                                                                                                2017 - 2019
+Worked in 2 different companies as JavaScript Web Developer
+Work on various pre-sale projects, estimating and developing solutions from start to end.
+Tech skills: NodeJS, Vue, React, Redux, MobX, ReactNative, MySQL, DynamoDB, MongoDB, NextJS
+
+EDUCATION
+
+NURE UNIVERSITY (Bachelor)							                                                2016 - 2020
+Software Engineering
+
+ACTIVITIES
+
+Open source contribution on terraform modules cloudposse
+Participating in conference organization
+Tech reviewer for Packt publisher
+
+HOBBIES
+
+Psychology
+Gym
+Meditation
+Management
+
+ABOUT ME
+
+In my role as a software engineer, I greatly value the collaboration with my team. I believe that working together often leads to better results than what we could achieve individually. My experience has involved a mix of working independently and as part of a team, handling everything from the initial planning stages of projects to overseeing their completion. I'm keen on contributing to a positive team dynamic and leading by example, with the goal of enhancing our collective success. Additionally, I'm focused on improving my emotional intelligence, which I see as key to becoming more self-aware and better understanding my colleagues. This not only helps in creating a more inclusive and supportive work environment but also contributes to our team’s overall achievements.
+
